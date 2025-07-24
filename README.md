@@ -71,5 +71,5 @@ I'm more into understanding how systems work than building flashy projects. If i
 
 <p align="center">
   <em>"If you want to understand a system, break it and then Google your way back."</em><br>
-  💬 Let's talk systems, networks, low-level code, or just rant about the deep web and Lain.
+  All love Lain.
 </p>
