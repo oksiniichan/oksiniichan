@@ -5,10 +5,6 @@
 <h1 align="center">oksiniichan</h1>
 <p align="center"><em>“In order to understand something, you must be willing to take it apart.”</em></p>
 
-<p align="center">
-  <img src="https://i.imgur.com/YOUR_PFP_IMAGE.gif" width="150" alt="Anime Hacker Avatar">
-</p>
-
 <h2>About Me</h2>
 
 <p>
