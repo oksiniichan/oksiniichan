@@ -26,6 +26,7 @@ I'm more into understanding how systems work than building flashy projects. If i
 <h2>What I'm Learning</h2>
 
 <ul>
+  <li>🥹 Myself</li>
   <li>📦 Operating system internals</li>
   <li>🛡️ Cybersecurity (offensive & defensive)</li>
   <li>📡 Building self-hosted setups & secure infra</li>
