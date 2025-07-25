@@ -52,6 +52,21 @@ I'm more into understanding how systems work than building flashy projects. If i
   </tr>
 </table>
 
+<h2>Books</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/91R2SGZcNmL.jpg" width="150"><br>
+      <em>Discourses</em>
+    </td>
+    <td align="center">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388607391i/12321.jpg" width="150"><br>
+      <em>Beyond good and evil</em>
+    </td>
+  </tr>
+</table>
+
 <h2>What I Actually Enjoy Doing</h2>
 
 <ul>
