@@ -33,53 +33,8 @@ I'm more into understanding how systems work than building flashy projects. If i
   <li> Using encryption properly (and actually understanding it)</li>
 </ul>
 
-<h2>Anime</h2>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media1.tenor.com/m/pPv1Z8y1b7cAAAAC/anime-quotes.gif" width="200"><br>
-      <em>Clannad</em>
-    </td>
-    <td align="center">
-      <img src="https://media1.tenor.com/m/O8k-DvUjaeEAAAAC/lain-dance.gif" width="200"><br>
-      <em>Serial Experiments Lain</em>
-    </td>
-    <td align="center">
-      <img src="https://media1.tenor.com/m/02W15aatjTgAAAAd/gintama-slap.gif" width="200"><br>
-      <em>Gintama</em>
-    </td>
-  </tr>
-</table>
-
-<h2>Books</h2>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://m.media-amazon.com/images/I/91R2SGZcNmL.jpg" width="150"><br>
-      <em>Discourses</em>
-    </td>
-    <td align="center">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388607391i/12321.jpg" width="150"><br>
-      <em>Beyond good and evil</em>
-    </td>
-  </tr>
-</table>
-
-<h2>What I Actually Enjoy Doing</h2>
-
-<ul>
-  <li> Self-hosting stuff to find out later it broke</li>
-  <li> Setting up monitoring for servers no one asked me to monitor</li>
-  <li> Digging into packet captures like it's detective work</li>
-  <li> Building a local CTF lab and locking myself out of it</li>
-  <li> Explaining DNS like it's magic (because it kind of is)</li>
-</ul>
-
 <hr>
 
 <p align="center">
   <em>"If you want to understand a system, break it and then Google your way back."</em><br>
-  All love Lain.
 </p>
