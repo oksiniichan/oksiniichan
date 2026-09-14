@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://media.tenor.com/RYGLfSXNIRIAAAAi/frieren.gif" width="20%" alt="Cyberpunk Anime Banner">
 </p>
-
-<h1 align="center">oksiniichan</h1>
 <p align="center"><em>“In order to understand something, you must be willing to take it apart.”</em></p>
 
 <h2>About Me</h2>
