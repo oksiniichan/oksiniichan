@@ -6,7 +6,7 @@
 <h2>About Me</h2>
 
 <p>
-I like to learn about engines, but I don’t own one — so instead, I learn about computers.  
+I like to learn about engines, but I don’t own one, so instead, I learn about computers.  
 <br><br>
 I'm more into understanding how systems work than building flashy projects. If it crashes, panics, or dumps core, that’s when it gets interesting. I wouldn’t call myself a developer — more like a <strong>reverse engineer in training</strong> who treats every stack trace like a mystery novel.
 </p>
